@@ -1,3 +1,4 @@
 hello
 ucuncu gun ilk deneme
 ucuncu gun ikinci deneme
+master branch yeni ekleme
